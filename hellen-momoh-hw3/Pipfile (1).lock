@@ -1,0 +1,19 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "dummyhashforassignment"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.9"
+        }
+    },
+    "default": {
+        "fastapi": {
+            "version": "*"
+        },
+        "uvicorn": {
+            "version": "*"
+        }
+    }
+}
